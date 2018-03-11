@@ -1,2 +1,3 @@
 # hello-world
-test repository, as instructed by the guide
+
+im too old for this shit
